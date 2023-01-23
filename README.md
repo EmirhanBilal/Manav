@@ -1,3 +1,3 @@
 # Manav
 
-manavv.netlify.app
+https://manavv.netlify.app/
